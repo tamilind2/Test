@@ -82,3 +82,13 @@ Sincerely,
 
 [Your Name]
 
+Following the recent penetration testing activity conducted on our Azure DevOps (ADO) platform, I would like to provide some important clarifications regarding the findings.
+
+During the testing, several issues related to our AWS environment and multi-factor authentication (MFA) were identified. I want to emphasize that these particular findings are not exclusive to our ADO platform. These issues had been previously identified during other penetration testing activities and are recognized vulnerabilities within our AWS infrastructure.
+
+It is crucial to note that the primary objective of this pen testing exercise was to assess the security posture of our ADO platform specifically. The issues discovered pertaining to the AWS environment and MFA are well-known and are being addressed as part of our broader AWS security strategy. These vulnerabilities are not unique to the ADO platform but affect all services utilizing AWS.
+
+Moving forward, I recommend that our penetration testing scenarios remain focused on the specific platform under review to ensure that the findings are directly relevant and actionable for that platform. This approach will help us maintain a clear and precise understanding of security risks and remediation efforts for each platform individually.
+
+Thank you for your attention to this matter. Please feel free to reach out if you have any questions or require further details.
+
