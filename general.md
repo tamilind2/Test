@@ -33,8 +33,7 @@
 The vulnerabilities identified in the Azure Key Vault, including the ability to modify key expiration dates and the lack of enforced key expiration and rotation policies, significantly increase the risk of key misuse and data exposure. Implementing the recommended controls will mitigate these risks and enhance the security of key management practices within the Azure environment.
 
 
-The pen testing activity was conducted in our azure devops platform . Ado agents were hosted in Eks . There were some finding with respect aws environment and mfa . I need to say that those issues with respect to aws cloud were earlier identified in other pen testing activity and known one . Pen testing scenarios should cover only ado platform finding . Issue identified with respect to aws platform not only exist for ado and also for other service using aws . Please write a good email to convey this message this senior management team 
-expand_more
+
 
 
 
@@ -53,6 +52,31 @@ By concentrating on the Azure DevOps platform findings, we can ensure a more str
 I am readily available to discuss this further and provide any additional information you may require.
 
 Thank you for your time and consideration.
+
+
+
+
+
+
+## Subject: Azure DevOps Pen Test Results - Clarification on AWS Findings
+
+Dear Senior Management Team,
+
+This email aims to provide clarification regarding the recent penetration testing (pen test) conducted on our Azure DevOps platform, where ADO agents are hosted within EKS. While the pen test identified several findings, there is a specific point to address concerning the AWS environment and MFA.
+
+The pen test identified findings related to the AWS environment and MFA. It is crucial to note, however, that these findings were previously discovered during a separate pen test and are already known issues. These findings are not specific to the Azure DevOps platform but are rather applicable to all services utilizing the AWS cloud.
+
+Therefore, the focus of subsequent pen testing activities for the Azure DevOps platform should be on addressing the newly identified findings within that specific environment. The existing AWS findings will be addressed through a separate remediation plan.
+
+By concentrating on the Azure DevOps platform findings, we can ensure a more streamlined and targeted approach to enhancing the security posture of this critical system.
+
+I am readily available to discuss this further and provide any additional information you may require.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Name]
 
 Sincerely,
 
